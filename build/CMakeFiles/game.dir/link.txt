@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/game.dir/src/srcmain/Checkers.cpp.o CMakeFiles/game.dir/src/srcmain/King.cpp.o CMakeFiles/game.dir/src/srcmain/gameBoard.cpp.o CMakeFiles/game.dir/src/srcmain/instructions.cpp.o CMakeFiles/game.dir/src/srcmain/main.cpp.o CMakeFiles/game.dir/src/srcmain/playTheGame.cpp.o CMakeFiles/game.dir/src/srcmain/player.cpp.o  -o game 

@@ -1,0 +1,4 @@
+/home/project/code/cpp/student142_project3/build/CMakeFiles/rebuild_cache.dir
+/home/project/code/cpp/student142_project3/build/CMakeFiles/edit_cache.dir
+/home/project/code/cpp/student142_project3/build/CMakeFiles/game.dir
+/home/project/code/cpp/student142_project3/build/CMakeFiles/testing.dir
