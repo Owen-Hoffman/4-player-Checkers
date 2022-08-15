@@ -1,4 +1,4 @@
-## 4 Player Checkers
+# 4 Player Checkers
 
 Created for CPTR 142 under Professor James Foster
 
